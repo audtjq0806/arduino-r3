@@ -1,0 +1,82 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Aug 02 15:13:24 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=5356 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\arduino-uno-master (2)\arduino-uno-master\arduino-uno-master\allegro\ARDUINO_UNO_R3.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/user/Desktop/arduino-uno-master (2)/arduino-uno-master/arduino-uno-master/allegro/ARDUINO_UNO_R3.brd
+\i (00:00:03) trapsize 4904
+\i (00:00:03) trapsize 5017
+\i (00:00:03) trapsize 5017
+\i (00:00:03) trapsize 4904
+\i (00:00:03) generaledit 
+\i (00:00:06) add connect 
+\t (00:00:06) Pick first element.
+\i (00:00:08) prepopup -16.0872 221.8472
+\i (00:00:09) oops 
+\t (00:00:09) Pick first element.
+\i (00:00:13) auto_route 
+\w (00:00:13) Xtalk table in drawing C:/Users/user/Desktop/arduino-uno-master (2)/arduino-uno-master/arduino-uno-master/allegro/ARDUINO_UNO_R3.brd does not exist. For xtalk estimation or xtalk DRC update, xtalk tables must be generated.
+   (00:00:13) Loading vse.cxt 
+\i (00:01:26) fillin confirm
+\i (00:01:29) setwindow form.vse_armain
+\i (00:01:29) FORM vse_armain close  
+\i (00:01:29) setwindow pcb
+\i (00:01:29) generaledit 
+\i (00:01:31) save 
+\i (00:01:32) fillin yes 
+\i (00:01:32) generaledit 
+\i (00:12:16) pick grid -13.4389 204.5843
+\t (00:12:16) last pick:  -13.3350 204.4700
+\i (00:12:16) zoom out 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom out -13.3408 205.2709
+\i (00:12:17) trapsize 9808
+\i (00:12:17) zoom out 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom out -1.1539 204.0390
+\i (00:12:17) trapsize 19617
+\i (00:12:17) zoom in 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom in 23.3672 161.0779
+\i (00:12:17) trapsize 9808
+\i (00:12:17) zoom in 1 
+\i (00:12:17) setwindow pcb
+\i (00:12:17) zoom in 13.7549 161.6665
+\i (00:12:17) trapsize 4904
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out 5.7120 173.6329
+\i (00:12:18) trapsize 9808
+\i (00:12:18) zoom out 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom out 5.7121 173.6328
+\i (00:12:18) trapsize 19617
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -33.5218 210.5125
+\i (00:12:18) trapsize 9808
+\i (00:12:18) zoom in 1 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) zoom in -33.5218 210.5126
+\i (00:12:18) trapsize 4904
+\i (00:12:23) auto_route 
+\i (00:12:25) setwindow form.vse_armain
+\i (00:12:25) FORM vse_armain execute  
+\i (00:12:39) fillin confirm
+\i (00:12:40) FORM vse_armain close  
+\i (00:12:40) setwindow pcb
+\i (00:12:40) generaledit 
+\i (00:12:43) zoom in 1 
+\i (00:12:43) setwindow pcb
+\i (00:12:43) zoom in 28.8600 170.5922
+\i (00:12:43) trapsize 2452
+\i (00:12:45) zoom out 1 
+\i (00:12:45) setwindow pcb
+\i (00:12:45) zoom out 31.6064 174.2214
+\i (00:12:45) trapsize 4904
+\i (00:12:55) exit 
+\e (00:12:55) Do you want to save the changes you made to C:/Users/user/Desktop/arduino-uno-master (2)/arduino-uno-master/arduino-uno-master/allegro/ARDUINO_UNO_R3.brd?
+\i (00:12:56) fillin yes 
+\t (00:12:56)     Journal end - Fri Aug 02 15:26:21 2019

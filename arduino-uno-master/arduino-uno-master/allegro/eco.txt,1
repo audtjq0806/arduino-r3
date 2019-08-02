@@ -1,0 +1,68 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../ARDUINO-UNO-MASTER/ARDUINO-UNO-MASTER/allegro/ARDUINO UNO R3.brd      |
+|                                                    Fri Aug 02 13:34:23 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAPC3216X180_100N
+ CAP NP_CAPC3216X180_15PF
+ CAP NP_CAPC3216X180_1U
+ CAP NP_CAPC3216X180_22P
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../ARDUINO-UNO-MASTER/ARDUINO-UNO-MASTER/allegro/ARDUINO UNO R3.brd      |
+|                                                    Fri Aug 02 13:34:23 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAPC3216X180_100N 29.0000 166.000 CAP NP_CAPCK05_100N
+ C2                  CAP NP_CAPC3216X180_100N 13.0000 179.000 CAP NP_CAPCK05_100N
+ C3                  CAP NP_CAPC3216X180_1U 41.0000 166.000 CAP NP_CAPCK05_1U
+ C4                  CAP NP_CAPC3216X180_100N 16.0000 179.000 CAP NP_CAPCK05_100N
+ C5                  CAP NP_CAPC3216X180_100N 25.0000 172.000 CAP NP_CAPCK05_100N
+ C6                  CAP NP_CAPC3216X180_100N 29.0000 172.000 CAP NP_CAPCK05_100N
+ C7                  CAP NP_CAPC3216X180_100N 36.0000 172.000 CAP NP_CAPCK05_100N
+ C8                  CAP NP_CAPC3216X180_1U 32.0000 172.000 CAP NP_CAPCK05_1U
+ C9                  CAP NP_CAPC3216X180_22P 45.0000 166.000 CAP NP_CAPCK05_22P
+ C11                 CAP NP_CAPC3216X180_22P 33.0000 166.000 CAP NP_CAPCK05_22P
+ CC2                 CAP NP_CAPC3216X180_15PF 92.0000 152.000 CAP NP_CAPCK05_15PF
+ CC                  CAP NP_CAPC3216X180_15PF 37.0000 166.000 CAP NP_CAPCK05_15PF
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../ARDUINO-UNO-MASTER/ARDUINO-UNO-MASTER/allegro/ARDUINO UNO R3.brd      |
+|                                                    Fri Aug 02 13:34:23 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2           29.0000 166.000 PRIM_FILE      .\pstchip.dat
+ C2.2           13.0000 179.000 PRIM_FILE      .\pstchip.dat
+ C3.2           41.0000 166.000 PRIM_FILE      .\pstchip.dat
+ C4.2           16.0000 179.000 PRIM_FILE      .\pstchip.dat
+ C5.2           25.0000 172.000 PRIM_FILE      .\pstchip.dat
+ C6.2           29.0000 172.000 PRIM_FILE      .\pstchip.dat
+ C7.2           36.0000 172.000 PRIM_FILE      .\pstchip.dat
+ C8.2           32.0000 172.000 PRIM_FILE      .\pstchip.dat
+ C9.2           45.0000 166.000 PRIM_FILE      .\pstchip.dat
+ C11.2          33.0000 166.000 PRIM_FILE      .\pstchip.dat
+ CC2.2          92.0000 152.000 PRIM_FILE      .\pstchip.dat
+ CC.2           37.0000 166.000 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       4                                        |
+|       Components changed    :      12                                        |
+|       Slot property added   :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      28                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,95 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ARDUINO UNO R3.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 12:33:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+WARNING: Could not place:  ZU4 / ATMEGA162-DIL40SMALL_4_DIP254P7 / DIP254P762X457-28; outside of drawing extents
+WARNING: Could not place:  C2 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C4 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C5 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C6 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  CSTCE16M0V53-R0 / ZTA_XTAL_FOXSDLF160-20_16MHZ / XTAL_FOXSDLF160-20; outside of drawing extents
+WARNING: Could not place:  D1 / DIODE_DO41_M7 / DO41; outside of drawing extents
+WARNING: Could not place:  D3 / DIODE_DO41_CD1206-S01575 / DO41; outside of drawing extents
+WARNING: Could not place:  GREEN / LED_CAP196_LED / CAP196; outside of drawing extents
+WARNING: Could not place:  LYELLOW / LED_CAP196_LED / CAP196; outside of drawing extents
+WARNING: Could not place:  PC1 / CAP POL_CAP196_47U / CAP196; outside of drawing extents
+WARNING: Could not place:  PC2 / CAP POL_CAP196_47U / CAP196; outside of drawing extents
+WARNING: Could not place:  R1 / R2_RESC1608X50N_1M / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1A / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1B / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1C / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2A / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RNID / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2B / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2C / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2D / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4A / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4B / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4C / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4D / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3A / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3B / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3C / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3D / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RXYELLOW / LED_CAP196_YELLOW / CAP196; outside of drawing extents
+WARNING: Could not place:  TXYELLOW / LED_CAP196_YELLOW / CAP196; outside of drawing extents
+WARNING: Could not place:  SW2 / SW SPST_JUMPER2_SW SPST / JUMPER2; outside of drawing extents
+WARNING: Could not place:  SW3 / SW SPST_JUMPER2_SW SPST / JUMPER2; outside of drawing extents
+WARNING: Could not place:  16MHZ / ZTA_XTAL_FOXSDLF160-20_ZTA / XTAL_FOXSDLF160-20; outside of drawing extents
+
+
+Placed 0 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+WARNING: Could not place:  ZU4 / ATMEGA162-DIL40SMALL_4_DIP254P7 / DIP254P762X457-28; outside of drawing extents
+WARNING: Could not place:  C2 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C4 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C5 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  C6 / CAP NP_CAPCK05_100N / CAPCK05; outside of drawing extents
+WARNING: Could not place:  CSTCE16M0V53-R0 / ZTA_XTAL_FOXSDLF160-20_16MHZ / XTAL_FOXSDLF160-20; outside of drawing extents
+WARNING: Could not place:  D1 / DIODE_DO41_M7 / DO41; outside of drawing extents
+WARNING: Could not place:  D3 / DIODE_DO41_CD1206-S01575 / DO41; outside of drawing extents
+WARNING: Could not place:  GREEN / LED_CAP196_LED / CAP196; outside of drawing extents
+WARNING: Could not place:  LYELLOW / LED_CAP196_LED / CAP196; outside of drawing extents
+WARNING: Could not place:  PC1 / CAP POL_CAP196_47U / CAP196; outside of drawing extents
+WARNING: Could not place:  PC2 / CAP POL_CAP196_47U / CAP196; outside of drawing extents
+WARNING: Could not place:  R1 / R2_RESC1608X50N_1M / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1A / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1B / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN1C / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2A / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RNID / R2_RESC1608X50N_10K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2B / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2C / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN2D / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4A / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4B / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4C / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN4D / R2_RESC1608X50N_1K / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3A / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3B / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3C / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RN3D / R2_RESC1608X50N_22R / RESC1608X50N; outside of drawing extents
+WARNING: Could not place:  RXYELLOW / LED_CAP196_YELLOW / CAP196; outside of drawing extents
+WARNING: Could not place:  TXYELLOW / LED_CAP196_YELLOW / CAP196; outside of drawing extents
+WARNING: Could not place:  SW2 / SW SPST_JUMPER2_SW SPST / JUMPER2; outside of drawing extents
+WARNING: Could not place:  SW3 / SW SPST_JUMPER2_SW SPST / JUMPER2; outside of drawing extents
+WARNING: Could not place:  16MHZ / ZTA_XTAL_FOXSDLF160-20_ZTA / XTAL_FOXSDLF160-20; outside of drawing extents
+
+
+Placed 0 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+
